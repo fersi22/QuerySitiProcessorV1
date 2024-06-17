@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Itic0vXZM2Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f.fresi\\Documents\\_stage\\QuerySitiProcessorV1\\QuerySitiProcessorV1\\QuerySitiProcessorV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f.fresi\\.nuget\\packages\\flurl\\4.0.0\\flurl.4.0.0.nupkg.sha512",
+    "C:\\Users\\f.fresi\\.nuget\\packages\\flurl.http\\4.0.2\\flurl.http.4.0.2.nupkg.sha512",
+    "C:\\Users\\f.fresi\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512"
+  ],
+  "logs": []
+}
